@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="بريد القوافل للاستقدام في الرياض. خدمات الاستقدام ومتابعة الطلبات ونقل الخدمات وفق الأنظمة والتراخيص المعمول بها في المملكة العربية السعودية.">
+
+    <meta name="theme-color" content="#071d38">
+
+    <title>بريد القوافل للاستقدام | الرياض</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header class="header">
+        <div class="logo">
+            <div class="logo-icon">ب</div>
+            <div class="logo-text">
+                <strong>بريد القوافل</strong>
+                <span>للاستقدام</span>
+            </div>
+        </div>
+
+        <nav class="navbar">
+            <a href="#home">الرئيسية</a>
+            <a href="#services">خدماتنا</a>
+            <a href="#countries">الدول</a>
+            <a href="#request">اطلب الآن</a>
+            <a href="#faq">الأسئلة الشائعة</a>
+            <a href="#contact">تواصل معنا</a>
+        </nav>
+    </header>
+
+
+    <!-- HERO -->
+    <section class="hero" id="home">
+
+        <div class="hero-content">
+
+            <span class="hero-tag">بريد القوافل للاستقدام</span>
+
+            <h1>
+                شريكك في رحلة
+                <span>الاستقدام</span>
+            </h1>
+
+            <p>
+                نسعى لتقديم خدمات الاستقدام ومتابعة الطلبات
+                ونقل الخدمات وفق الأنظمة والإجراءات المعتمدة
+                في المملكة العربية السعودية.
+            </p>
+
+            <div class="hero-buttons">
+
+                <a href="#request" class="btn btn-primary">
+                    اطلب خدمتك الآن
+                </a>
+
+                <a href="https://wa.me/966553947015"
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   class="btn btn-secondary">
+                    تواصل عبر واتساب
+                </a>
+
+            </div>
+
+            <div class="hero-features">
+                <div>
+                    <strong>متابعة</strong>
+                    <span>للطلبات</span>
+                </div>
+
+                <div>
+                    <strong>تواصل</strong>
+                    <span>مباشر</span>
+                </div>
+
+                <div>
+                    <strong>خدمات</strong>
+                    <span>متنوعة</span>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="hero-visual">
+            <div class="hero-logo-circle">
+                <span>ب</span>
+                <strong>بريد القوافل</strong>
+                <small>للاستقدام</small>
+            </div>
+        </div>
+
+    </section>
+
+
+    <!-- SERVICES -->
+    <section class="services section" id="services">
+
+        <div class="section-heading">
+            <span class="section-tag">ماذا نقدم؟</span>
+            <h2>خدماتنا</h2>
+            <p>خدمات متنوعة لتلبية احتياجات العملاء.</p>
+        </div>
+
+        <div class="services-container">
+
+            <article class="service-card">
+                <div class="service-icon">✦</div>
+                <h3>خدمات الاستقدام</h3>
+                <p>
+                    استقبال طلبات الاستقدام ومساعدة العملاء
+                    في التعرف على الإجراءات والمتطلبات.
+                </p>
+            </article>
+
+            <article class="service-card">
+                <div class="service-icon">✓</div>
+                <h3>متابعة الطلبات</h3>
+                <p>
+                    متابعة حالة الطلب وإطلاع العميل
+                    على المستجدات والإجراءات.
+                </p>
+            </article>
+
+            <article class="service-card">
+                <div class="service-icon">↔</div>
+                <h3>نقل الخدمات</h3>
+                <p>
+                    استقبال استفسارات نقل الخدمات
+                    وفق الشروط والأنظمة المعمول بها.
+                </p>
+            </article>
+
+        </div>
+
+    </section>
+
+
+    <!-- COUNTRIES -->
+    <section class="countries section" id="countries">
+
+        <div class="section-heading">
+            <span class="section-tag">وجهات الاستقدام</span>
+            <h2>الدول المتاحة للاستفسار</h2>
+            <p>يمكنك التواصل معنا لمعرفة الدول والخدمات المتاحة حالياً.</p>
+        </div>
+
+        <div class="countries-container">
+
+            <div class="country-card">
+                <span>🇵🇭</span>
+                <strong>الفلبين</strong>
+            </div>
+
+            <div class="country-card">
+                <span>🇰🇪</span>
+                <strong>كينيا</strong>
+            </div>
+
+            <div class="country-card">
+                <span>🇪🇹</span>
+                <strong>إثيوبيا</strong>
+            </div>
+
+            <div class="country-card">
+                <span>🇧🇩</span>
+                <strong>بنجلادش</strong>
+            </div>
+
+            <div class="country-card">
+                <span>🇮🇩</span>
+                <strong>إندونيسيا</strong>
+            </div>
+
+            <div class="country-card">
+                <span>🇱🇰</span>
+                <strong>سريلانكا</strong>
+            </div>
+
+        </div>
+
+        <p class="countries-note">
+            تخضع الدول والخدمات المتاحة للتراخيص والأنظمة والتعليمات
+            السارية في المملكة العربية السعودية.
+        </p>
+
+    </section>
+
+
+    <!-- REQUEST FORM -->
+    <section class="request-section" id="request">
+
+        <div class="section-heading">
+            <span class="section-tag">ابدأ الآن</span>
+            <h2>طلب استقدام جديد</h2>
+            <p>
+                املأ البيانات التالية وسيتواصل معك المكتب عبر واتساب.
+            </p>
+        </div>
+
+        <form id="requestForm" class="request-form">
+
+            <div class="form-group">
+                <label for="customerName">الاسم الكامل *</label>
+                <input
+                    type="text"
+                    id="customerName"
+                    placeholder="اكتب اسمك"
+                    maxlength="80"
+                    required
+                >
+            </div>
+
+            <div class="form-group">
+                <label for="customerPhone">رقم الجوال *</label>
+                <input
+                    type="tel"
+                    id="customerPhone"
+                    placeholder="05xxxxxxxx"
+                    maxlength="20"
+                    required
+                >
+            </div>
+
+            <div class="form-group">
+                <label for="serviceType">نوع الخدمة *</label>
+                <select id="serviceType" required>
+                    <option value="">اختر الخدمة</option>
+                    <option value="استقدام">استقدام</option>
+                    <option value="متابعة طلب">متابعة طلب</option>
+                    <option value="نقل خدمات">نقل خدمات</option>
+                    <option value="استفسار عام">استفسار عام</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="country">الدولة المطلوبة *</label>
+                <select id="country" required>
+                    <option value="">اختر الدولة</option>
+                    <option value="الفلبين">الفلبين</option>
+                    <option value="كينيا">كينيا</option>
+                    <option value="إثيوبيا">إثيوبيا</option>
+                    <option value="بنجلادش">بنجلادش</option>
+                    <option value="إندونيسيا">إندونيسيا</option>
+                    <option value="سريلانكا">سريلانكا</option>
+                    <option value="أخرى / استفسار">أخرى / استفسار</option>
+                </select>
+            </div>
+
+            <div class="form-group full-width">
+                <label for="requestDetails">تفاصيل إضافية</label>
+                <textarea
+                    id="requestDetails"
+                    rows="4"
+                    maxlength="500"
+                    placeholder="اكتب استفسارك هنا..."
+                ></textarea>
+            </div>
+
+            <label class="privacy-check full-width">
+                <input type="checkbox" id="privacyConsent" required>
+                أوافق على إرسال بيانات التواصل للمكتب للرد على استفساري.
+            </label>
+
+            <button type="submit" class="request-submit full-width">
+                إرسال الطلب عبر واتساب
+            </button>
+
+        </form>
+
+        <p class="form-note">
+            سيتم فتح واتساب برسالة تحتوي على بيانات الطلب لتأكيد إرسالها.
+        </p>
+
+    </section>
+
+
+    <!-- FAQ -->
+    <section class="faq" id="faq">
+
+        <div class="section-heading">
+            <span class="section-tag">هل لديك سؤال؟</span>
+            <h2>الأسئلة الشائعة</h2>
+        </div>
+
+        <div class="faq-container">
+
+            <details class="faq-item">
+                <summary>كيف يمكنني تقديم طلب استقدام؟</summary>
+                <p>
+                    يمكنك تعبئة نموذج الطلب الموجود بالموقع
+                    وسيتم فتح واتساب للتواصل مع المكتب.
+                </p>
+            </details>
+
+            <details class="faq-item">
+                <summary>كيف أتابع حالة طلبي؟</summary>
+                <p>
+                    يمكنك التواصل مع المكتب عبر واتساب
+                    للاستفسار عن حالة الطلب.
+                </p>
+            </details>
+
+            <details class="faq-item">
+                <summary>هل جميع الدول متاحة للاستقدام؟</summary>
+                <p>
+                    تختلف الدول والخدمات المتاحة حسب الأنظمة
+                    والتراخيص والتعليمات السارية.
+                </p>
+            </details>
+
+            <details class="faq-item">
+                <summary>كيف أتواصل مع المكتب؟</summary>
+                <p>
+                    يمكنك الاتصال هاتفياً أو التواصل عبر واتساب
+                    من خلال أزرار التواصل الموجودة بالموقع.
+                </p>
+            </details>
+
+        </div>
+
+    </section>
+
+
+    <!-- CONTACT -->
+    <section class="contact section" id="contact">
+
+        <div class="section-heading">
+            <span class="section-tag">نحن هنا لمساعدتك</span>
+            <h2>تواصل معنا</h2>
+            <p>يسعدنا استقبال استفساراتكم.</p>
+        </div>
+
+        <div class="contact-container">
+
+            <a href="tel:0553947015" class="contact-card">
+                <span>☎</span>
+                <strong>اتصل بنا</strong>
+                <small>0553947015</small>
+            </a>
+
+            <a href="https://wa.me/966553947015"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="contact-card">
+                <span>◉</span>
+                <strong>واتساب</strong>
+                <small>تواصل مباشر</small>
+            </a>
+
+            <a href="https://maps.app.goo.gl/BRj4ArXjbZCzicR89?g_st=ic"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="contact-card">
+                <span>⌖</span>
+                <strong>موقع المكتب</strong>
+                <small>الرياض - السعودية</small>
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer class="footer">
+
+        <div class="footer-logo">
+            <strong>بريد القوافل للاستقدام</strong>
+            <p>خدمات الاستقدام في الرياض</p>
+        </div>
+
+        <p>
+            جميع الحقوق محفوظة ©
+            <span id="year"></span>
+            بريد القوافل للاستقدام
+        </p>
+
+    </footer>
+
+
+    <!-- FLOATING WHATSAPP -->
+    <a
+        href="https://wa.me/966553947015"
+        class="whatsapp-float"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="تواصل معنا عبر واتساب"
+    >
+        واتساب
+    </a>
+
+
+    <!-- JAVASCRIPT -->
+    <script src="script.js"></script>
+
+</body>
+</html>
